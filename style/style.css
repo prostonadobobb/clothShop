@@ -301,10 +301,10 @@ a {
 
 }
 
-.header_baner {
+.header_first-page {
     display: flex;
     justify-content: center;
-    background: url('../img/baner_desktop_img.jpg') top center no-repeat;
+    background: url('../img/desktop_img.jpg') top center no-repeat;
     background-size: cover;
     height: 100vh;
 }
