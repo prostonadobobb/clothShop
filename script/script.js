@@ -85,7 +85,7 @@ document.addEventListener('click', (e) => {
 })
 
 // INDEX PAGE
-if (location.href.includes('index')) {
+if (location.href.includes('index') || document.querySelector(".header_first-page")) {
     window.onscroll = function () {
         let scroll = window.pageYOffset || document.documentElement.scrollTop;
 
