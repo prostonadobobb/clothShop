@@ -669,10 +669,9 @@ ul.breadcrump_list li + li:before {
     display: inline-flex;
     border: 1px solid #7a7878;
     border-radius: 20px;
-    padding: 2px 15px 2px 5px;
+    padding: 0 15px 0 5px;
     background: #fff5f3;
     font-size: 15px;
-    margin-bottom: 3px;
     position: relative;
 }
 
