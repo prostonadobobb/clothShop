@@ -1,4 +1,4 @@
-This is a simple landing page.
+This is a starting landing page for cloth shop.
 Use html, CSS/SCSS, JS, BEM;
 
 Follow to link:
